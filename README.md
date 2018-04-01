@@ -1,7 +1,8 @@
-Data Monitor / [dm18.te-st.ru](dm18.te-st.ru)
+Data Monitor / [dm18.te-st.ru](https://dm18.te-st.ru)
 ==============
 
-### Результат работы над проектом находится по адресу [https://piter.unionfourman.ru](https://piter.unionfourman.ru)
+### Результат работы над проектом находится по адресу [piter.unionfourman.ru](https://piter.unionfourman.ru)
+### Все геопривязанные данные находятся [в открытом доступе](https://maxim.nextgis.com/resource/1734)
 
 ### Директория data содержит следующие данные:
 * data.csv
